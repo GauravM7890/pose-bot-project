@@ -93,7 +93,6 @@ Include more functionality like screen time, and detecting if the user is holdin
 ### Try it out 👇🏽
 
 - 🤖 [Tensorflow.js Model](https://teachablemachine.withgoogle.com/models/f4JB966HD/)
-- 🕸 [The Website](https://pose-bot.vercel.app/)
 - 🖥 [The Figma Prototype](https://www.figma.com/file/utEHzshb9zHSB0v3Kp7Rby/Untitled?node-id=0%3A1)
 
 
