@@ -102,6 +102,5 @@ Include more functionality like screen time, and detecting if the user is holdin
 
 ### 3️⃣ Cheers to the team 🥂
 
-- [Apurva Sharma](https://github.com/Apurva-tech)
-- [Aniket Singh Rawat](https://github.com/dikwickley)
-- [Dev Sharma](https://github.com/cryptus-neoxys)
+- [Anish Majumdar](https://github.com/GauravM7890)
+- [Abhiram Veladineni](https://github.com/notabee-git)
